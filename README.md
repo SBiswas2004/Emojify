@@ -24,7 +24,7 @@
     </li>
     <li>Place your trained model weights as <code>model.weights.h5</code> and your emoji images in an <code>emojis</code> folder.</li>
     <li>Run the application with:
-      <pre>python emojify.py</pre>
+      <pre>python gui.ipynb</pre>
     </li>
     <li>Interact with the GUI to see live emotion-to-emoji conversion from your webcam feed.</li>
   </ol>
